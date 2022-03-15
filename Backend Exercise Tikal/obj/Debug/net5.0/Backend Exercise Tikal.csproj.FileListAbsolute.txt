@@ -1,0 +1,28 @@
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\Backend Exercise Tikal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\Backend Exercise Tikal.AssemblyInfoInputs.cache
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\Backend Exercise Tikal.AssemblyInfo.cs
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\Backend Exercise Tikal.csproj.CoreCompileInputs.cache
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\Backend Exercise Tikal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\Backend Exercise Tikal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\appsettings.json
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\Backend Exercise Tikal.exe
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\Backend Exercise Tikal.deps.json
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\Backend Exercise Tikal.runtimeconfig.json
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\Backend Exercise Tikal.runtimeconfig.dev.json
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\Backend Exercise Tikal.dll
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\ref\Backend Exercise Tikal.dll
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\Backend Exercise Tikal.pdb
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\staticwebassets\Backend Exercise Tikal.StaticWebAssets.Manifest.cache
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\staticwebassets\Backend Exercise Tikal.StaticWebAssets.xml
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\scopedcss\bundle\Backend Exercise Tikal.styles.css
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\Backend Exercise Tikal.RazorTargetAssemblyInfo.cache
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\Backend Exercise Tikal.dll
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\ref\Backend Exercise Tikal.dll
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\Backend Exercise Tikal.pdb
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\Backend Exercise Tikal.genruntimeconfig.cache
+C:\Users\idof\source\repos\Backend Exercise Tikal\Backend Exercise Tikal\obj\Debug\net5.0\Backend Exercise Tikal.csproj.AssemblyReference.cache
